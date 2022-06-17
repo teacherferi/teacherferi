@@ -2,7 +2,7 @@
 - 👀 I’m interested in Belajar TKJ
 - 🌱 I’m currently learning seputar Komputer
 - 💞️ I’m looking to collaborate on siapapun
-- 📫 How to reach me call me
+- 📫 How to reach me Just call me
 
 <!---
 teacherferi/teacherferi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
